@@ -1,0 +1,6 @@
+*.xcf
+
+# Ignore folders
+build
+.vscode
+source/.vscode
