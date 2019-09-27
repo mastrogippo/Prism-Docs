@@ -8,7 +8,6 @@ This is the documentation for Prism
 .. toctree::
    :maxdepth: 2
    
-   .. user_guide
    installation_guide
    pinout
    conn_diagram
